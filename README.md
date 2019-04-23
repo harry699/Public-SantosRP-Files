@@ -9,3 +9,5 @@ please press Wiki for install instructions! (Its the same for all versions (once
 Im the owner of UnrealRP And these files WILL Be shown to the public and SantosRP WILL Be reborn!
 
 Discord Installation Help : https://discord.gg/NHC8g8F
+
+Server Hosts That Work And Are Good https://unrealhosting.co.uk/
