@@ -10,4 +10,4 @@ Im the owner of UnrealRP And these files WILL Be shown to the public and SantosR
 
 Discord Installation Help : https://discord.gg/NHC8g8F
 
-Server Hosts That Work And Are Good https://unrealhosting.co.uk/
+Server Hosts That Work And Are Good https://mixmlhosting.com/
